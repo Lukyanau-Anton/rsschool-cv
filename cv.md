@@ -2,10 +2,10 @@
 # Lukyanov Anton 
 ## Junior frontend developer
 ### Contact information:
-Phone: +995 511 20 73 55
-E-mail: lukyanantole@gmail.com
-[Telegram](https://t.me/Blablublaza)
-[LinkedIn](https://www.linkedin.com/in/anton-lukyanov-46472a258/)
+* Phone: +995 511 20 73 55
+* E-mail: lukyanantole@gmail.com
+* [Telegram](https://t.me/Blablublaza)
+* [LinkedIn](https://www.linkedin.com/in/anton-lukyanov-46472a258/)
 ### About Myself:
 From 2016 to 2021, I studied at the Belarusian State University at the Faculty of Mechanics and Mathematics. At the university, I was the head of the student organization for two years. 
 
